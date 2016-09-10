@@ -46,7 +46,5 @@ class ViewController: UIViewController {
         
         return "\(components.year)-\(components.month)-\(components.day)"
     }
-
-
 }
 
